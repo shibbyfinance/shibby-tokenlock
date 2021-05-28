@@ -9,6 +9,7 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/tok
 You can verify the release date yourself by converting the "releaseTime" from epoch-format to a human-readable-format: https://www.epochconverter.com/
 
 Team Funds:
+
 Release Date: 28th June 2021 (0.5%)
 TokenLocker: 0xbE13DA4519295b30b2a9A69b567A0161830CF342
 
