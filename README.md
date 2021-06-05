@@ -24,7 +24,7 @@ You can verify the release date yourself by converting the "releaseTime" from ep
 
 ### Lock 3
 
-- Release Date: 28th February 2021 (2%)
+- Release Date: 28th February 2022 (2%)
 - TokenLocker: 0x5c19d2175CF60832E0D22e1f142c2A5A8e5aBe0e
 - Tx:https://bscscan.com/tx/0x6a1b872823d5da23887adf43a6ddf5aaaee69171514dd392e4a8039540d0a762
 
