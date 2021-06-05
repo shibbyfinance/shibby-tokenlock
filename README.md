@@ -11,16 +11,23 @@ You can verify the release date yourself by converting the "releaseTime" from ep
 ## Team Funds:
 
 -Release Date: 28th June 2021 (0.5%)
-TokenLocker: 0xbE13DA4519295b30b2a9A69b567A0161830CF342
+TokenLocker: 0x168A9d1F60d88Fd051AeE7c6867617795CE03438
+Tx: https://bscscan.com/tx/0xe5e6f0672fa489df9bdc54959184c5da3319b0e521249dec007eb4e5d938e3fb
 
 -Release Date: 28th August 2021 (0.5%)
-TokenLocker: 0xd689Bd1549dE40cDBeF3CE8DE589c0089b919BaB
+TokenLocker: 0xB9F0421614ff914A6a5F361B1DF3fE1a5ED4c98f
+Tx:https://bscscan.com/tx/0xaf954975b7d15e4095a7b54ddf49d231e28a8daf410773fa82e9261eeb2b6b36
 
 -Release Date: 28th February 2021 (2%)
-TokenLocker: 0x3D487387bf0e0F7FeF87a5c89545934eA27b6aF2
+TokenLocker: 0x5c19d2175CF60832E0D22e1f142c2A5A8e5aBe0e
+Tx:https://bscscan.com/tx/0x6a1b872823d5da23887adf43a6ddf5aaaee69171514dd392e4a8039540d0a762
 
 -Release Date: 28th May 2022 (2%)
-TokenLocker: 0x6D6651696bcdbc6e3a5B4B473Ab23F51CA4Ca01B
+TokenLocker: 0x4021B258C787f439a304619B4d8304CF9FDC0F14
+Tx:https://bscscan.com/tx/0x670c7d928e0914a7e2b1e2d70e6c988cb20340681f9e206fc6955c852dc53177
 
 -Release Date: 28th November 2022 (3%)
-TokenLocker: 0xc2c7b96AE6349cdf34773fFf9B4111cBa658Ea55
+TokenLocker: 0x68448bf87eD9AB46f004C15C1E007db34679dA47
+Tx:https://bscscan.com/tx/0x80013a27e5bda66aca6cb55ea58eccfc403b980ac3812c358c0ae7babfea703f
+
+
